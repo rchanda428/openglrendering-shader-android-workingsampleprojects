@@ -1,0 +1,3 @@
+E:/innowork/mywork/HangarProject/sourcecode/demo-jni-local-javaopenglintegration/android-shader-demo-jni/openCVLibrary454/.cxx/cmake/debug/x86/CMakeFiles/opencv_jni_shared.dir
+E:/innowork/mywork/HangarProject/sourcecode/demo-jni-local-javaopenglintegration/android-shader-demo-jni/openCVLibrary454/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+E:/innowork/mywork/HangarProject/sourcecode/demo-jni-local-javaopenglintegration/android-shader-demo-jni/openCVLibrary454/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
